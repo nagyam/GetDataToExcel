@@ -1,0 +1,1 @@
+﻿SELECT [thszam] as N'TH szám',[tetelkod] as N'Tételkód',[minosites] as N'Minősítés',[ido] as N'Befejezve',[dolgozo] as N'Dolgozó',[uID] as N'Trzs.' FROM [dbo].[TermelesiAdat] WHERE [ido] >= @startido AND [ido] <= @stopido;

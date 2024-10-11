@@ -1,0 +1,1 @@
+Server=prod01;Database=bpw_welding;Trusted_Connection=True;Encrypt=True;TrustServerCertificate=True;
